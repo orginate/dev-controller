@@ -1,8 +1,10 @@
 apiVersion: "1"
-version: "2"
+version: "3"
 id: "orginate-dev-controller"
 description: "CloudBees CI configuration bundle for the orginate dev-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/orginate/dev-controller"
 parent: "base"
 rbac:
   - "rbac.yaml"
+items:
+  - "folder.yaml"
