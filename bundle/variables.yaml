@@ -1,0 +1,4 @@
+variables:
+- team: orginate
+- admin-user: coldcycl-admin
+- manager-user: coldcycl
