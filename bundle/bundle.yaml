@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "orginate-dev-controller"
+description: "CloudBees CI configuration bundle for the orginate dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/orginate/dev-controller"
+parent: "base"
